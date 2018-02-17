@@ -29,6 +29,7 @@ general:
     - 'gmc'
     - 'gm1'
     - 'gm'
+    - 'restrictedcreativemode'
   regions:
     enabled: false
     whitelist:
